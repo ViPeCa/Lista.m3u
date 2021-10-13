@@ -168,4 +168,37 @@ https://iptv-all.lanesh4d0w.codes/dominicanrepublic/viva-canal-5
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg" group-title="",ZTV (480p) [Not 24/7]
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
-
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-DRCZbw0zXRo/XzgVKWzJ0vI/AAAAAAAA4S8/MN8UboLlqsMR2RY5GjjfsL-VXE5X8Lw-gCK8BGAsYHg/s0/2020-08-15.png",Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-SMZzVkRBPgo/XzgTrVaVKKI/AAAAAAAA4SQ/lSI2HspsiS8UcIAYkCAS5loSKGdfQDZ6ACK8BGAsYHg/s0/2020-08-15.jpg",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Q9q-hnFHaIU/XzgVCi0a_rI/AAAAAAAA4S4/mCk6OVexIlkz1tfvcy6qmLXCmrnphw56ACK8BGAsYHg/s0/2020-08-15.jpg",Boreal Televisión
+https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-WjWVuyJWVMo/XzgVgnbtUBI/AAAAAAAA4TI/3mfIbpL5mBEbzKZVdsGW4gPqEhDdT3uYACK8BGAsYHg/s0/2020-08-15.jpg",Cibervision
+http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-uim4E6l-Qno/XzgV0SohEtI/AAAAAAAA4TY/Kyj2EYmEWsgOf-9yObXMrT5G4uXkxdMMgCK8BGAsYHg/s0/2020-08-15.png",Farovision
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Yf-U57lYWTA/XzgV6SlCSxI/AAAAAAAA4Tc/Xono2T0plso6ImGpmCNRByn9akdBEoPLQCK8BGAsYHg/s0/2020-08-15.jpg",Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Ofjf3c7mMcY/XzgWEMrJzBI/AAAAAAAA4Tg/iitP9E6Zh_o1xom-yLDTDOkURHbvl-lRgCK8BGAsYHg/s0/2020-08-15.png",GDM
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-MUJsvP4LUEE/XzgQHZNiNdI/AAAAAAAA4Rc/iiRRQp0BCX00MnMJZsfR2E_bLhyN6gUAACK8BGAsYHg/s0/2020-08-15.png",Hilando Fino
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png",Luna TV
+https://ss4.domint.net:3018/luna_str/lunatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png",Megavision
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-J9MpGmEaVwk/XzgWd2PEeVI/AAAAAAAA4Ts/gsReFcO99xIi9t25aMDUhMOVFdaj5jBTgCK8BGAsYHg/s0/2020-08-15.jpg",Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-vqvx9FsfLk0/XzgWl2BgDoI/AAAAAAAA4Tw/j9hiiFJmW9cmkMKjRM4-v9VxR8eQfONawCK8BGAsYHg/s0/2020-08-15.jpg",Musavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-tfgvfH5WigA/XzgYP6_PPkI/AAAAAAAA4UM/NK7IQCeGzv8VwW2pjLty7GRAxjU3jhxeACK8BGAsYHg/s0/2020-08-15.png",Onda TV
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Ydne9i3prbc/XzgafLSH-9I/AAAAAAAA4Ug/F3PCfWy8pMIqUOjCpr7zZ5EnheliAV46wCK8BGAsYHg/s0/2020-08-15.jpg",Peravia Vision
+http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-8F5NLNjrFTE/Xzgbrpf27LI/AAAAAAAA4U4/QWfRcHnhy0soWcP-Xpk7pQygEjmLx9QigCK8BGAsYHg/s0/2020-08-15.jpg",Sport Vision
+https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/--ZdvDPEZM6U/Xzgb3ZRAe4I/AAAAAAAA4VA/Bv5ESAdmZio3thWjXaoUaLXcPiXTFUuJgCK8BGAsYHg/s0/2020-08-15.jpg",Teleantillas
+https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UC
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-YMFTyatktS4/XzgdjfP3Z4I/AAAAAAAA4V0/ufSfgaejWhUKTvcQB_47jJqsMtDqCNxIACK8BGAsYHg/s0/2020-08-15.jpg",Telesistema
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
