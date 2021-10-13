@@ -182,5 +182,8 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
 https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-tfgvfH5WigA/XzgYP6_PPkI/AAAAAAAA4UM/NK7IQCeGzv8VwW2pjLty7GRAxjU3jhxeACK8BGAsYHg/s0/2020-08-15.png",Onda TV
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="",Teleantillas Canal 2
-https://www.dailymotion.com/video/x809r6i#tab_embed.m3u8
+#EXTINF:-1  tvg-logo="",RTVD Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
+#EXTINF:-1  tvg-logo="",Antena Latina Canal 7
+https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mS0N4nbiOOiTK33T8HJRv4)/d
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8
