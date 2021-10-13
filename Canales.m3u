@@ -134,4 +134,13 @@ https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?Playlist
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="",RTVD Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
-
+#EXTINF:-1  tvg-logo="",Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1  tvg-logo="",Boreal TV
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="",Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w57552770.m3u8
+#EXTINF:-1  tvg-logo="",Antena 21
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8YTg2OWJlOWEzYmNmMDc1MTZjNTU5OGVkOWVjZGVlNDc0MDkyNCJ9
+#EXTINF:-1  tvg-logo="",Antena Latina
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8
