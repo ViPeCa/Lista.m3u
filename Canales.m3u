@@ -7,17 +7,20 @@ https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iBpY2yFPWMf5PksyI
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="Local",Telemicro 
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="Local",Antena Latina
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Color Vision Canal 9
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY6QhZdwMod16XmdiqykhMwQ)/dm/3/x7gy059/d/live-0.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Telesistema Canal 11
 https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2vw9VomuS31_dJNBBdaVikY)/dm/3/x80ac48/s/live-1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Telecentro Canal 13
 https://playback.akamaized.net/streams/28126860_9438854_lsig79a26euxfp88r3c_1/media/28126860_9438854_lsig79a26euxfp88r3c_1@1628000p.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="Local",Digital 15
+https://player-api.new.livestream.com/accounts/27456795/events/8268514/broadcasts/226613027.secure.m3u8?dw=14400&hdnea=st%3D1634338357~exp%3D1634340157~acl%3D%2Fi%2F27456795_8268514_lsifxdqjwmgc4pt5yki_1%40408221%2F%2A~hmac%3Dc199c93374ae31feba8ccc9286982144cbc5b273b52257767e1e4d0abf799864&token=616a0761_50a69f2ef0a30998569114afb4990491f9b53d3c
 #EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-country="DO" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local",Cinevision Canal 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="Local",Antena 21
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-id="TelefuturoCanal23.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="Local",Telefuturo Canal 23
 http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Canal 25
@@ -31,7 +34,7 @@ https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",SportsVision Canal 35
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w866591787.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",CDN Canal 37
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634346930/ei/UdNpYcC6PM_1kAOO0qaoAQ/ip/181.37.209.139/id/G6pemxYI32g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOh3I_UOQ-LzOiwZk-63Pklmm97pRFZD-4gGvFDDOkryAiBkiSHram60S3V5lDeBIIu7hxpu8QxxFmlsgPeU-2QOfg%3D%3D/file/index.m3u8
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1634424361~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=57d23715f7c9879a2703de58035e0132e04046a9d4756db6b55b27a10e4c333f
 #EXTINF:-1  tvg-logo="" group-title="Local",TeleRadio America TRA Canal 45
 https://rctvhdstream.com:8081/tratvstreaming/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Amé 47
@@ -41,7 +44,7 @@ https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1372198374.m3u8
 #EXTINF:-1 tvg-id="DigitalVision.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Digital Vision
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",CDN DEPORTES Canal 65
-https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/index_150_av-b.m3u8
+https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Canal del Sol Canal 69
 https://canaldelsoltv01.streamprolive.com/hls/live.m3u8
 
@@ -67,15 +70,15 @@ http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Local",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW Español (1080p)
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes",El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noicias",France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.do" tvg-country="DO" tvg-language="" tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="Local",Fuego TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FuegoTV.do" tvg-country="DO" tvg-language="" tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="Local",Fuego TV 
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-language="" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Local",GDMTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-language="" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Local",GDMTV
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GHTelevisionCanal10.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",GH Television Canal 10
 https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
@@ -99,20 +102,19 @@ http://201.168.205.12:8000/play/a0ck/index.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-country="DO" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="Local",Punta Cana TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio105full.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://ru0-cdn.onlineradiobox.com/img/l/2/94192.v2.png" group-title="Musica",Radio105 full 
+#EXTINF:-1 tvg-id="Radio105full.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://ru0-cdn.onlineradiobox.com/img/l/2/94192.v2.png" group-title="Musica",Radio 105
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
-#EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-country="DO" tvg-language="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="Local",Ready TV Canal 6 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-country="DO" tvg-language="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="Local",Ready TV Canal 6
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Local",TeleUniverso Canal 29
-https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
-#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" group-title="Local",Romana TV Canal 42 
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rv3jShy.jpg" group-title="Local",Romana TV 
 http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="LATAM;ES" tvg-language="Spanish" tvg-logo="" group-title="Noticias",RT en Español
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="SiTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="Local",SiTV (720p)
+#EXTINF:-1 tvg-id="SiTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="Local",SiTV
 http://190.122.104.221/Player/sitv.m3u8
-
-#EXTINF:-1 tvg-id="SuperTV55Santiago.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="Local",Super TV 55 (Santiago) (720p)
+#EXTINF:-1  tvg-logo=""group-title="Local",Telever Jarabacoa
+https://megastreamm.com:3495/live/televerlive.m3u8
+#EXTINF:-1 tvg-id="SuperTV55Santiago.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="Local",Super TV 55
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 #EXTINF:-1 tvg-id="TDNMedios.do" tvg-country="DO" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhNXeL2j6nDfgnmZxLlnMTAMne2l7IZ7boVIGUPL8h0VaFCFV2" group-title="Local",TDN Medios
 http://108.175.14.125:1935/tdn/tdn/playlist.m3u8
@@ -163,8 +165,10 @@ https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?Playlist
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-tfgvfH5WigA/XzgYP6_PPkI/AAAAAAAA4UM/NK7IQCeGzv8VwW2pjLty7GRAxjU3jhxeACK8BGAsYHg/s0/2020-08-15.png" group-title="Local",Onda TV
 #EXTINF:-1  tvg-logo=""group-title="Local",Boreal TV
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",HIPICA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/111634340147/ei/07hpYY6tENKjzLUPib6y2As/ip/152.166.152.59/id/Tfs4qkNowp4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKSwOU6_TT8pu_NYwi-_suCygnFgjHfayfrZVvBNpvAvAiEAt7fEdXDHSoadicQVpTAbgmn_wIf60NMs0PDoXArSPS4%3D/file/index.m3u8
+#EXTINF:-1  tvg-logo=""group-title="Local",TeleContacto
+https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA Network" tvg-logo="" group-title="Deportes",|.NBA.| NBA Network
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110959
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",NYRA
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634340323/ei/g7lpYZ_XEJGJkATVwYLwBg/ip/152.166.152.59/id/gHWccvG8FDs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMkFdvVQpN9MMef4U0p541Gtg7W7wD-maip1ItdI0skZAiEA5yjNfvhmQGkT-6qnyeW0C6gQHHfD2wTd_jn_31QNMTI%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",Americas Day At The Races
