@@ -1,16 +1,24 @@
 # Lista.m3u
 Canales Dominicanos
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL2
+#EXTINF:-1  tvg-logo="" group-title="Local",TeleAntillas Canal 
+https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iBpY2yFPWMf5PksyID9tKg)/dm/3/x809r6i/s/live-2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",RTVD Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="Local",Telemicro (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="Local",Telemicro 
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Color Vision Canal 9
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY6QhZdwMod16XmdiqykhMwQ)/dm/3/x7gy059/d/live-0.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Telesistema Canal 11
+https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2vw9VomuS31_dJNBBdaVikY)/dm/3/x80ac48/s/live-1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Telecentro Canal 13
+https://playback.akamaized.net/streams/28126860_9438854_lsig79a26euxfp88r3c_1/media/28126860_9438854_lsig79a26euxfp88r3c_1@1628000p.m3u8
 
-#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-country="DO" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local",Cinevision Canal 19 (720p)
+#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-country="DO" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local",Cinevision Canal 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF:-1 tvg-id="TelefuturoCanal23.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="Local",Telefuturo Canal 23 (720p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="TelefuturoCanal23.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="Local",Telefuturo Canal 23
 http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Canal 25
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w57552770.m3u8
@@ -19,17 +27,28 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",TeleUniverso Canal 29
 https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="SuperCanal33.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Super Canal 33 (480p)
-http://190.122.96.186:8888/http/005
+https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",SportsVision Canal 35
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w866591787.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="Local",CDN Canal 37
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",TeleRadio America TRA Canal 45
+https://rctvhdstream.com:8081/tratvstreaming/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Amé 47 (720p)
 https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",TNI Canal 51
+https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1372198374.m3u8
+#EXTINF:-1 tvg-id="DigitalVision.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Digital Vision (720p)
+https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",CDN Canal 65
+https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/index_150_av-b.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Canal del Sol Canal 69
+https://canaldelsoltv01.streamprolive.com/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Musica",A Son de Salsa (720p)
 https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="AkíTV.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",AkíTV [Not 24/7]
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Animacion",Anime Zone TV (480p) [Not 24/7]
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal12.do" tvg-country="DO" tvg-language="" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-12-telecanal-republica-dominicana-en-vivo.jpg" group-title="Local",Canal 12 (480p) [Not 24/7]
@@ -47,8 +66,7 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Local",DAN TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalVision.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Digital Vision (720p)
-https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes",El Garage TV (480p) [Not 24/7]
