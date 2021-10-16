@@ -16,7 +16,7 @@ https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2vw9VomuS31_dJNBBd
 #EXTINF:-1  tvg-logo="" group-title="Local",Telecentro Canal 13
 https://playback.akamaized.net/streams/28126860_9438854_lsig79a26euxfp88r3c_1/media/28126860_9438854_lsig79a26euxfp88r3c_1@1628000p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Digital 15
-https://player-api.new.livestream.com/accounts/27456795/events/8268514/broadcasts/226613027.secure.m3u8?dw=14400&hdnea=st%3D1634338357~exp%3D1634340157~acl%3D%2Fi%2F27456795_8268514_lsifxdqjwmgc4pt5yki_1%40408221%2F%2A~hmac%3Dc199c93374ae31feba8ccc9286982144cbc5b273b52257767e1e4d0abf799864&token=616a0761_50a69f2ef0a30998569114afb4990491f9b53d3c
+http://sozare.com:80/75256546F59C/FCF08F088F4D/143975
 #EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-country="DO" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local",Cinevision Canal 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Antena 21
