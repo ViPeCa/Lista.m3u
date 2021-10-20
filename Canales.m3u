@@ -16,7 +16,7 @@ https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2vw9VomuS31_dJNBBd
 #EXTINF:-1  tvg-logo="" group-title="Local",Telecentro Canal 13
 https://playback.akamaized.net/streams/28126860_9438854_lsig79a26euxfp88r3c_1/media/28126860_9438854_lsig79a26euxfp88r3c_1@1628000p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Digital 15
-http://sozare.com:80/75256546F59C/FCF08F088F4D/143975
+https://playback.akamaized.net/streams/28126860_8825282_lsi2n6l0o1umc1m6mkf_1/master.m3u8?dw=14400&hdnts=exp=1634761944~acl=/streams/28126860_8825282_lsi2n6l0o1umc1m6mkf_1/master.m3u8*~hmac=600ebad6b6eac32833fe2bfa50d34b9223fc79d9f2e6398cb2160227dafcfa5c
 #EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-country="DO" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local",Cinevision Canal 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Antena 21
@@ -186,3 +186,5 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634340323/ei/g
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634346496/ei/oNFpYdb4Jq_m4QT_qYbQDQ/ip/181.37.209.139/id/gHWccvG8FDs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGmX76adqFlGRNGU0hc-AxfQ9d0B3LeZ2E5kq-T46ZgYCIQCbLmTBHST5ZtKQ9kkvhcJPW-j5mqcVynV72MNbMYMRtQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",Hipica TV Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634346291/ei/09BpYd2zHoXvj-8Pz_OY8AI/ip/181.37.209.139/id/Tfs4qkNowp4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPP7iZ18em_Bk-8Yp7n62Fo7OMX0dYZ81sD33Ky3VnXkAiAuYJ1RNZJ_XscDpOuD4yrKmKTV0tEK6Iij706RK08wtQ%3D%3D/file/index.m3u8
+#EXTINF:-1,DEPORTES:MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
