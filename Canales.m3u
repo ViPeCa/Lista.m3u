@@ -34,7 +34,8 @@ https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",SportsVision Canal 35
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w866591787.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",CDN Canal 37
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?
 #EXTINF:-1  tvg-logo="" group-title="Local",TeleRadio America TRA Canal 45
 https://rctvhdstream.com:8081/tratvstreaming/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Amé 47
@@ -44,7 +45,9 @@ https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1372198374.m3u8
 #EXTINF:-1 tvg-id="DigitalVision.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Digital Vision
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",CDN DEPORTES Canal 65
-https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1614691449~acl=%2fi%2fdclive_1%40322095*~data=hdntl~hmac=57aa616125b74d61739e69348a326e8e5a764a2c02f3d298ce8df64441d00d4d
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Canal del Sol Canal 69
 https://canaldelsoltv01.streamprolive.com/hls/live.m3u8
 
