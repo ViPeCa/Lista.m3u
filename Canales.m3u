@@ -34,8 +34,7 @@ https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",SportsVision Canal 35
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w866591787.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",CDN Canal 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1635343662~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=e9d87afae778efd6a5fcb14c07473bcd9ffc139fe46e1f542be45ec08394d7ce
 #EXTINF:-1  tvg-logo="" group-title="Local",TeleRadio America TRA Canal 45
 https://rctvhdstream.com:8081/tratvstreaming/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="Local",Amé 47
@@ -180,6 +179,8 @@ https://rctvhdstream.com:8081/nitidatvlive/tracks-v1a1/mono.m3u8
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo=""group-title="Local",Guaymate TV
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1272389427.m3u8
+#EXTINF:-1  tvg-logo=""group-title="Local",TVO
+https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",NYRA
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634340323/ei/g7lpYZ_XEJGJkATVwYLwBg/ip/152.166.152.59/id/gHWccvG8FDs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMkFdvVQpN9MMef4U0p541Gtg7W7wD-maip1ItdI0skZAiEA5yjNfvhmQGkT-6qnyeW0C6gQHHfD2wTd_jn_31QNMTI%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",Americas Day At The Races
