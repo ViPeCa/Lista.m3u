@@ -1,6 +1,30 @@
 # Lista.m3u
-Canales Dominicanos
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL2
+Pelota Invernal
+#EXTINF:-1  tvg-logo="" group-title="Escogido",TeleAntillas Canal 2 
+https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iBpY2yFPWMf5PksyID9tKg)/dm/3/x809r6i/s/live-2.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Licey",TeleAntillas Canal
+
+#EXTINF:-1  tvg-logo="" group-title="Aguilas",TeleUniverso Canal 29
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Aguilas",Luna Tv
+https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w908918335.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Gigantes",RTVD Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="Local",Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="TelenordCanal10.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Local",Telenord Canal 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord12.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Local",Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Estrellas",TeleAntillas Canal
+
+#EXTINF:-1  tvg-logo="" group-title="Toros",Romana TV
+http://live.romanatv42.com/hls/live.m3u8
+
+
 #EXTINF:-1  tvg-logo="" group-title="Local",TeleAntillas Canal 
 https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iBpY2yFPWMf5PksyID9tKg)/dm/3/x809r6i/s/live-2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",RTVD Canal 4
