@@ -181,11 +181,6 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1272389427.m3u8
 #EXTINF:-1  tvg-logo=""group-title="Local",TVO
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",NYRA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634340323/ei/g7lpYZ_XEJGJkATVwYLwBg/ip/152.166.152.59/id/gHWccvG8FDs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMkFdvVQpN9MMef4U0p541Gtg7W7wD-maip1ItdI0skZAiEA5yjNfvhmQGkT-6qnyeW0C6gQHHfD2wTd_jn_31QNMTI%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",Americas Day At The Races
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634346496/ei/oNFpYdb4Jq_m4QT_qYbQDQ/ip/181.37.209.139/id/gHWccvG8FDs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGmX76adqFlGRNGU0hc-AxfQ9d0B3LeZ2E5kq-T46ZgYCIQCbLmTBHST5ZtKQ9kkvhcJPW-j5mqcVynV72MNbMYMRtQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Deportes",Hipica TV Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634346291/ei/09BpYd2zHoXvj-8Pz_OY8AI/ip/181.37.209.139/id/Tfs4qkNowp4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPP7iZ18em_Bk-8Yp7n62Fo7OMX0dYZ81sD33Ky3VnXkAiAuYJ1RNZJ_XscDpOuD4yrKmKTV0tEK6Iij706RK08wtQ%3D%3D/file/index.m3u8
-#EXTINF:-1,DEPORTES:MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1  tvg-logo=""group-title="Local",Luna TV
+https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w1928010469.m3u8
+
