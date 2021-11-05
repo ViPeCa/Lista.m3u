@@ -6,7 +6,7 @@ https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iBpY2yFPWMf5PksyI
 #EXTINF:-1  tvg-logo="" group-title="Local",RTVD Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1743284654_b2146304.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="Local",Telemicro 
-https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+http://stream.grupotelemicro.com/5.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Antena Latina
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Color Vision Canal 9
